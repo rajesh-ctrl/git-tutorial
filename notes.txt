@@ -1,3 +1,6 @@
 10.21 done version3
 
 https://www.youtube.com/watch?v=hrTQipWp6co&t=312s
+
+To remove git from a folder:
+rm -rf .git
